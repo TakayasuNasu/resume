@@ -1,4 +1,4 @@
-Project
+Projects
 ---
 
 ### Famus Spot Tour (December 2020 ~ March 2021)
@@ -34,7 +34,7 @@ Project
 
 ### Petico - SNS for pet owners (Jun 2013 - December 2013)
 
-- Tech Stack: **Java/Redmine**
+- Tech Stack: **Android/Java/Redmine**
 - Communicate with the API server via HTTP using JSON format / Share your pet's name and diary with other users
 
 ### API for IOS map application (April 2013 - Jun 2013)
@@ -92,7 +92,7 @@ Project
 
 ### Petico - SNS for pet owners (Jun 2013 - December 2013)
 
-- Tech Stack: **Java/Redmine**
+- Tech Stack: **Android/Java/Redmine**
 - Communicate with the API server via HTTP using JSON format / Share your pet's name and diary with other users
 
 ### API for IOS map application (April 2013 - Jun 2013)

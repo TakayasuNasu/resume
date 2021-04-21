@@ -1,4 +1,4 @@
-::: header-info
+::: text-align-center
 
 Takayasu Nasu
 ===

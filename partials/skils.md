@@ -4,34 +4,34 @@ Skills
 ::: flex-list
 
 - Java
-- **PHP**
-- **JavaScript**
+- PHP
+- JavaScript
 - TypeScript
-- **Swift**
+- Swift
 - Kotolin
 - Python
 - Ruby
 - HTML
 - CSS
-- **SCSS**
-- **React**
-- **Vue.js**
+- SCSS
+- React
+- Vue.js
 - Anguler.js
 - Node.js
 - JQuery
 - Wordpress
-- **Laravel**
-- **CakePhp**
+- Laravel
+- CakePhp
 - Zend
 - Rails
-- **Graphql**
-- **MySql**
+- Graphql
+- MySql
 - SQLite
 - Apache
 - Nginx
-- **Docker**
-- **Git/Github**
+- Docker
+- Git/Github
 - AWS
-- **CircleCI**
+- CircleCI
 
 :::
