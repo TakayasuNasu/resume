@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>resume_takayasu_nasu.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p,
+blockquote, pre, a, address, em, img, small, sub, sup,
+b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, figure, figcaption, footer, header, menu,
+nav, ruby, section, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header,
+hgroup, menu, main, nav, section {
+  display: block;
+}
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+  font-size: 11px;
+  line-height: 17px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+h1 {
+  text-align: center;
+}
+/**
+h2 {
+  margin-top: 70px;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+h4 {
+  margin-top: 20px;
+}
+
+ul {
+  margin-top: 5px;
+}
+**/
+
+
+.flex-list ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flex-list li {
+	width: 20%;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+</style>
+<link rel="stylesheet" href="file:///Users/taka/Documents/storage/my_resume/part_time_programmer/resume-pdf.css" type="text/css">
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<div class="header-info">
+<h1 id="takayasu-nasu">Takayasu Nasu</h1>
+<p>#112 1209 Jervis St Vancouver BC V6R2B6 / Tel: +1(604)376-2691 / E-mail: taka.beckham@gmail.com</p>
+<p>Github: <a href="https://github.com/TakayasuNasu?tab=repositories">https://github.com/TakayasuNasu</a> / portfolio: <a href="https://www.i-nasu.com/">https://www.i-nasu.com/</a></p>
+</div>
+<h2 id="objective">Objective</h2>
+<p>Senior Full-Stack Web Developer with more than 9 years of experience in Information Technology Industry. Experience In Requirements Definition,  System Design, Development And Testing For Various Applications Like Client Server, Web Applications IOS Application, Android Application.</p>
+<h2 id="work-experience">Work Experience</h2>
+<h3 id="full-stuck-developer--technical-director-jun-2017---august-2020-medix-inc--tokyo-japan"><strong>Full Stuck Developer / Technical Director</strong> (Jun 2017 - August 2020) Medix inc. / Tokyo, Japan</h3>
+<ul>
+<li>Created SPA for centralized management which useful knowledge within the company that was stored in various locations. That SPA is made with <strong>Docker, Laravel, Graphql and Vue.js</strong>.</li>
+<li>As project leader, I selected technologies and supported members of the project team.</li>
+<li>Made a web service using <strong>React</strong> and API. API server is built <strong>AWS-Fargate</strong> (<strong>Docker</strong>) with autoscaling feature to prevent server downtime.</li>
+<li>Built a Staging environment and set a deployment system using <strong>Github</strong> webhook.</li>
+<li>Worked closely with other developers and UI designers in an agile environment.</li>
+</ul>
+<h3 id="senior-web-developer-november-2014---october-2016-strawbag-inc--tokyo-japan"><strong>Senior Web Developer</strong> (November 2014 - October 2016) Strawbag inc. / Tokyo, Japan</h3>
+<ul>
+<li>Created a CI system that combined <strong>Bitbucket, Wercker and Slack</strong> to support development when I built a job-search management site using the <strong>php Slim</strong> framework.</li>
+<li>Cooperated and built some web application with the Chinese coworker. That's when I supported him by creating task management, specification explanations, sample code, and documentation.</li>
+<li>Renewed a website with a <strong>Laravel</strong> based web application (CMS) that incorporates some of the concepts of <strong>DDD (Entity/Value Object)</strong>.</li>
+<li>Took on a wide range of tasks like Requirement Definition, Research, System Design, Implementation, Testing, Deployment, Task Management almost every project because that's company had only a few programmer.</li>
+</ul>
+<h3 id="junior-web-developer-april-2013---october-2014-btm-inc--tokyo-japan"><strong>Junior Web Developer</strong>  (April 2013 - October 2014) BTM inc. / Tokyo, Japan</h3>
+<ul>
+<li>Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.</li>
+<li>Created <strong>Android</strong> application that uses polymorphism in its design which made with <strong>Java</strong> and I manage team tasks.</li>
+<li>Runs a <strong>Linux</strong> workshop in the company, lecturing on the basics of Linux and how to build an environment using <strong>Vagrant and Chef</strong>.</li>
+</ul>
+<h3 id="junior-web-developer-jun-2012---march-2013-i-freek--fukuoka-japan"><strong>Junior Web Developer</strong>  (Jun 2012 - March 2013) I-Freek / Fukuoka, Japan</h3>
+<ul>
+<li>Modified an existing program made with Perl and deploy it on <strong>Linux</strong> while checking the Apache conf file with Vim.</li>
+<li>Supported <strong>Android</strong> app which use GPS made with Java using Eclipse.</li>
+<li>Wrote clean and stable code and accompanying documentation.</li>
+</ul>
+<!--
+
+### **Full Stuck Developer / Technical Director** (Jun 2017 - August 2020) Medix inc. / Tokyo, Japan
+
+- Created SPA for centralized management which useful knowledge within the company that was stored in various locations. That SPA is made with **Docker, Laravel, Graphql and Vue.js**.
+- As project leader, I selected technologies and supported members of the project team.
+- Made a web service using **React** and API. API server is built **AWS-Fargate** (**Docker**) with autoscaling feature to prevent server downtime.
+- Built a Staging environment and set a deployment system using **Github** webhook.
+- Described and suggested with specific solutions and man-hours to them who work as a Web Director and Sales could understand. When they consulted me about site minor modification, error repair, server construction and architecture.
+- Created a website or web application which was considered UX and UI then improved user experience. For example, using Lazyload, **Intersection Observer API** and something like that.
+- Explained the benefits of version control and created a culture where team members take using Github for granted.
+- Made a SPA that incorporates component thinking and **Atomic Design**.
+- Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
+- Worked closely with other developers and UI designers in an agile environment.
+
+### **Senior Web Developer** (November 2014 - October 2016) Strawbag inc. / Tokyo, Japan
+
+- Created a CI system that combined **Bitbucket, Wercker and Slack** to support development when I built a job-search management site using the **php Slim** framework.
+- Cooperated and built some web application with the Chinese coworker. That's when I supported him by creating task management, specification explanations, sample code, and documentation.
+- Renewed a website with a **Laravel** based web application (CMS) that incorporates some of the concepts of **DDD (Entity/Value Object)**.
+- Took on a wide range of tasks like Requirement Definition, Research, System Design, Implementation, Testing, Deployment, Task Management almost every project because that's company had only a few programmer.
+
+### **Junior Web Developer**  (April 2013 - October 2014) BTM inc. / Tokyo, Japan
+
+- Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.
+- Created **Android** application that uses polymorphism in its design which made with **Java** and I manage team tasks.
+- Runs a **Linux** workshop in the company, lecturing on the basics of Linux and how to build an environment using **Vagrant and Chef**.
+
+### **Junior Web Developer**  (Jun 2012 - March 2013) I-Freek / Fukuoka, Japan
+
+- Modified an existing program made with Perl and deploy it on **Linux** while checking the Apache conf file with Vim.
+- Created a script in php to migrate DB data and migrated over 10,000 records to another DB without any problems.
+- Supported **Android** app which use GPS made with Java using Eclipse.
+- Made a web application with a credit card payment function using **JQuery and twitter Bootstrap** based on **Cakephp**.
+- Wrote clean and stable code and accompanying documentation.
+
+-->
+<h2 id="project">Project</h2>
+<h3 id="famus-spot-tour-december-2020--march-2021">Famus Spot Tour (December 2020 ~ March 2021)</h3>
+<ul>
+<li>Tech Stack: <strong>Swift/Realm/SnapKit/Mapkit/Core Graphics/Core Animations/Firebase/Figma</strong></li>
+<li>An application that provides directions to people who don't know how to go there and introduce recommended spots to tourists who are new to Vancouver.</li>
+<li>Product manager, programmer and UI designer working with my team members.</li>
+<li>Familiar with Apple’s Human Interface Guidelines.</li>
+</ul>
+<h3 id="s-portal-jun-2019---august-2020">S-Portal (Jun 2019 - August 2020)</h3>
+<ul>
+<li>Tech Stack: <strong>Vue/SPA/Graphql/Laravel/Docker</strong></li>
+<li>SPA for centralized management of knowledge related to site production, accessed daily by 80% of all employees</li>
+</ul>
+<h3 id="feedlp-january-2018---september-2019">FeedLP (January 2018 - September 2019)</h3>
+<ul>
+<li>Tech Stack: <strong>React/Go/AWS Fargate/Docker/MySql</strong></li>
+<li>We made an API for the job information used in the feed ads, and used React to display it dynamically. The UI is now ready to be updated without any work on the server side.</li>
+<li><a href="https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D">https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D</a></li>
+</ul>
+<h3 id="landing-page-and-wordpress-occasionally-4-to-5-site-per-year">Landing Page and Wordpress (Occasionally 4 to 5 site per year)</h3>
+<ul>
+<li>Tech Stack: <strong>html/css(scss)/JQery/Vue.js/php</strong></li>
+<li>Perfect coding using <strong>css grid</strong> and <strong>flex-box</strong> based on the design data (psd) to improve conversion rates.</li>
+<li><a href="https://www.iprimo.jp/">https://www.iprimo.jp/</a></li>
+<li><a href="https://www.exchangeuse.com/">https://www.exchangeuse.com/</a></li>
+<li><a href="https://www.nichiiweb.jp/kaji/">https://www.nichiiweb.jp/kaji/</a></li>
+</ul>
+<h3 id="web-browser-social-game-applications-january-2014---october-2014">Web browser Social game applications (January 2014 - October 2014)</h3>
+<ul>
+<li>Tech Stack: <strong>php/Smarty/MySql/JavaScript/Jira</strong></li>
+<li>Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.</li>
+</ul>
+<h3 id="petico---sns-for-pet-owners-jun-2013---december-2013">Petico - SNS for pet owners (Jun 2013 - December 2013)</h3>
+<ul>
+<li>Tech Stack: <strong>Java/Redmine</strong></li>
+<li>Communicate with the API server via HTTP using JSON format / Share your pet's name and diary with other users</li>
+</ul>
+<h3 id="api-for-ios-map-application-april-2013---jun-2013">API for IOS map application (April 2013 - Jun 2013)</h3>
+<ul>
+<li>Tech Stack: <strong>php/Cakephp/Twitter Bootstrap</strong></li>
+<li>Providing information on the location of famous places via API</li>
+</ul>
+<!--
+
+
+### Famus Spot Tour (December 2020 ~ March 2021)
+
+- Tech Stack: **Swift/Realm/SnapKit/Mapkit/Core Graphics/Core Animations/Firebase/Figma**
+- An application that provides directions to people who don't know how to go there and introduce recommended spots to tourists who are new to Vancouver.
+- Product manager, programmer and UI designer working with my team members.
+- Familiar with Apple’s Human Interface Guidelines.
+
+### S-Portal (Jun 2019 - August 2020)
+
+- Tech Stack: **Vue/SPA/Graphql/Laravel/Docker**
+- SPA for centralized management of knowledge related to site production, accessed daily by 80% of all employees
+
+### FeedLP (January 2018 - September 2019)
+
+- Tech Stack: **React/Go/AWS Fargate/Docker/MySql**
+- We made an API for the job information used in the feed ads, and used React to display it dynamically. The UI is now ready to be updated without any work on the server side.
+- [https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
+
+### Landing Page and Wordpress (Occasionally 4 to 5 site per year)
+
+- Tech Stack: **html/css(scss)/JQery/Vue.js/php**
+- Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
+- [https://www.iprimo.jp/](https://www.iprimo.jp/)
+- [https://www.exchangeuse.com/](https://www.exchangeuse.com/)
+- [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+
+### Original CMS (November 2014 - September 2016)
+
+- Tech Stack: **php/Laravel/Slim/Phalcon/Cakephp/Zend/Smarty/MySql/JQuery/JavaScript**
+- Creation of portal sites for group companies and renewal of architect office sites
+- [https://www.pharmaproduct.co.jp/](https://www.pharmaproduct.co.jp/)
+- [https://mynavi-job20s.jp/](https://mynavi-job20s.jp/)
+- [http://k-ito.jp/](http://k-ito.jp/)
+
+### Web browser Social game applications (January 2014 - October 2014)
+
+- Tech Stack: **php/Smarty/MySql/JavaScript/Jira**
+- Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.
+
+### Video On Demand delivery system for PC (April 2013 - August 2013)
+
+- Tech Stack: **Java/Spring/Velocity Template/Redmine**
+- [https://www.hikaritv.net/](https://www.hikaritv.net/)
+
+### Petico - SNS for pet owners (Jun 2013 - December 2013)
+
+- Tech Stack: **Java/Redmine**
+- Communicate with the API server via HTTP using JSON format / Share your pet's name and diary with other users
+
+### API for IOS map application (April 2013 - Jun 2013)
+
+- Tech Stack: **php/Cakephp/Twitter Bootstrap**
+- Providing information on the location of famous places via API
+
+### Momoko Planet (Augst 2012 - March 2013)
+
+- Tech Stack: **php/Cakephp/JQuery/Twitter Bootstrap**
+- The official website of a famous Japanese manga artist. Selling video and image content that can only be purchased from this site.
+
+### Fishing in Kyushu (Jun 2012 - October 2012)
+
+- Tech Stack: **php/Perl/Postgresql**
+- A web app that gives you the latest information on fishing and discounts on fishing gear.
+- Migration of a feature phone site made with Perl to a smart phone site using php.
+
+-->
+<h2 id="education">Education</h2>
+<h3 id="cornerstone-international-community-college-of-canada--vancouver-bc-september-2020---present--web-and-mobile-app-development-diploma"><strong>Cornerstone International Community College of  Canada</strong> / Vancouver, BC (September 2020 - present) / Web and mobile app development diploma</h3>
+<h3 id="fukuoka-university--fukuoka-japan-april-1997---march-2001--bachelors-degree-of-commerce"><strong>Fukuoka University</strong> / Fukuoka, Japan (April 1997 - March 2001) / Bachelor's Degree of Commerce</h3>
+
+</body>
+</html>
