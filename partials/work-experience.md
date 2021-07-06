@@ -1,6 +1,11 @@
 Work Experience
 ---
 
+### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - Present)
+
+- Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources.
+- Front end requirements definition, spec design, implementation.
+
 ### **Full Stack Developer / Technical Director** - Medix inc. / Tokyo, Japan (June 2017 - August 2020)
 
 - Created SPA for centralized management which useful knowledge within the company that was stored in various locations. That SPA is made with **Docker, Laravel, Graphql and Vue.js**.
@@ -25,6 +30,11 @@ Work Experience
 - Wrote clean and stable code and accompanying documentation.
 
 <!--
+
+### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - Present)
+
+- Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources.
+- Front end requirements definition, spec design, implementation.
 
 ### **Full Stack Developer / Technical Director** - Medix inc. / Tokyo, Japan (June 2017 - August 2020)
 

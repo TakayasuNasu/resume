@@ -1,6 +1,12 @@
 Projects
 ---
 
+### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy)
+
+- Tech Stack: **React/Next.js/Cognito/Api Gateway/DynamoDB/scss**
+- People who want to study computer science, algorithms, and something like that can sign up for online classes from this site.
+- Students can know which lectures they have attended, and the instructor can control the content and duration of the lectures.
+
 ### Famus Spot Tour (December 2020 ~ March 2021)
 
 - Tech Stack: **Swift/Realm/SnapKit/Mapkit/Core Graphics/Core Animations/Firebase/Figma**
@@ -13,29 +19,21 @@ Projects
 - Tech Stack: **Vue/SPA/Graphql/Laravel/Docker**
 - SPA for centralized management of knowledge related to site production, accessed daily by 80% of all employees
 
-### FeedLP (January 2018 - September 2019)
+### FeedLP (January 2018 - September 2019) - [https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
 
 - Tech Stack: **React/Go/AWS Fargate/Docker/MySql**
 - We made an API for the job information used in the feed ads and used React to display it dynamically. The UI is now ready to be updated without any work on the server-side.
-- [https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
 
 ### Landing Page and Wordpress (Occasionally 4 to 5 site per year)
 
 - Tech Stack: **html/css(scss)/JQery/Vue.js/php**
 - Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
-- [https://www.iprimo.jp/](https://www.iprimo.jp/)
-- [https://www.exchangeuse.com/](https://www.exchangeuse.com/)
-- [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+- [https://www.iprimo.jp/](https://www.iprimo.jp/) / [https://www.exchangeuse.com/](https://www.exchangeuse.com/) / [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
 
 ### Web browser Social game applications (January 2014 - October 2014)
 
 - Tech Stack: **php/Smarty/MySql/JavaScript/Jira**
 - Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.
-
-### Petico - SNS for pet owners (Jun 2013 - December 2013)
-
-- Tech Stack: **Android/Java/Redmine**
-- Communicate with the API server via HTTP using JSON format / Share your pet's name and diary with other users
 
 ### API for IOS map application (April 2013 - Jun 2013)
 
@@ -45,6 +43,11 @@ Projects
 
 <!--
 
+### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy)
+
+- Tech Stack: **React/Next.js/Cognito/Api Gateway/DynamoDB/scss**
+- People who want to study computer science, algorithms, and something like that can sign up for online classes from this site.
+- Students can know which lectures they have attended, and the instructor can control the content and duration of the lectures.
 
 ### Famus Spot Tour (December 2020 ~ March 2021)
 
@@ -58,19 +61,16 @@ Projects
 - Tech Stack: **Vue/SPA/Graphql/Laravel/Docker**
 - SPA for centralized management of knowledge related to site production, accessed daily by 80% of all employees
 
-### FeedLP (January 2018 - September 2019)
+### FeedLP (January 2018 - September 2019) - [https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
 
 - Tech Stack: **React/Go/AWS Fargate/Docker/MySql**
 - We made an API for the job information used in the feed ads and used React to display it dynamically. The UI is now ready to be updated without any work on the server-side.
-- [https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
 
 ### Landing Page and Wordpress (Occasionally 4 to 5 site per year)
 
 - Tech Stack: **html/css(scss)/JQery/Vue.js/php**
 - Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
-- [https://www.iprimo.jp/](https://www.iprimo.jp/)
-- [https://www.exchangeuse.com/](https://www.exchangeuse.com/)
-- [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+- [https://www.iprimo.jp/](https://www.iprimo.jp/) / [https://www.exchangeuse.com/](https://www.exchangeuse.com/) / [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
 
 ### Original CMS (November 2014 - September 2016)
 

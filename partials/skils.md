@@ -19,6 +19,7 @@ Skills
 - Anguler.js
 - Node.js
 - JQuery
+- Next.js
 - Wordpress
 - Laravel
 - CakePhp
