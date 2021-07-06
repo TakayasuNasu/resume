@@ -28,7 +28,7 @@ Projects
 
 - Tech Stack: **html/css(scss)/JQery/Vue.js/php**
 - Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
-- [https://www.iprimo.jp/](https://www.iprimo.jp/) / [https://www.exchangeuse.com/](https://www.exchangeuse.com/) / [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+- [https://www.iprimo.jp/](https://www.iprimo.jp/) | [https://www.exchangeuse.com/](https://www.exchangeuse.com/) | [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
 
 ### Web browser Social game applications (January 2014 - October 2014)
 
@@ -70,7 +70,7 @@ Projects
 
 - Tech Stack: **html/css(scss)/JQery/Vue.js/php**
 - Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
-- [https://www.iprimo.jp/](https://www.iprimo.jp/) / [https://www.exchangeuse.com/](https://www.exchangeuse.com/) / [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+- [https://www.iprimo.jp/](https://www.iprimo.jp/) | [https://www.exchangeuse.com/](https://www.exchangeuse.com/) | [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
 
 ### Original CMS (November 2014 - September 2016)
 
