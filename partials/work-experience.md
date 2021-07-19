@@ -1,9 +1,8 @@
-Work Experience
----
+## Work Experience
 
 ### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - Present)
 
-- Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources.
+- Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources. My team has 6 people including me.
 - Front end requirements definition, spec design, implementation.
 
 ### **Full Stack Developer / Technical Director** - Medix inc. / Tokyo, Japan (June 2017 - August 2020)
@@ -23,7 +22,7 @@ Work Experience
 - Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.
 - Created **Android** application that uses polymorphism in its design which is made with **Java** and I manage team tasks.
 
-### **Junior Web Developer** - I-Freek / Fukuoka, Japan  (June 2012 - March 2013)
+### **Junior Web Developer** - I-Freek / Fukuoka, Japan (June 2012 - March 2013)
 
 - Modified an existing program made with Perl and deploy it on **Linux** while checking the Apache conf file with Vim.
 - Supported **Android** app which uses GPS made with Java using Eclipse.
@@ -33,7 +32,7 @@ Work Experience
 
 ### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - Present)
 
-- Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources.
+- Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources. My team has 6 people including me.
 - Front end requirements definition, spec design, implementation.
 
 ### **Full Stack Developer / Technical Director** - Medix inc. / Tokyo, Japan (June 2017 - August 2020)
