@@ -1,18 +1,22 @@
-Projects
----
+## Projects
 
-### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy)
+### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy) (May 2021 - Present)
 
 - Tech Stack: **React/Next.js/Cognito/Api Gateway/DynamoDB/scss**
 - People who want to study computer science, algorithms, and something like that can sign up for online classes from this site.
 - Students can know which lectures they have attended, and the instructor can control the content and duration of the lectures.
+
+### Queen’s game (April 2021 ~ July 2021)
+
+- App Store: [https://apps.apple.com/us/app/queens-game/id1575671780](https://apps.apple.com/us/app/queens-game/id1575671780)
+- Tech Stack: **Swift/Realm/MVVM/RxSwift/Core Animations/Figma**
+- Queen's game is a party game which is kind of combination of "Simon Says" and "truth or dare."
 
 ### Famus Spot Tour (December 2020 ~ March 2021)
 
 - Tech Stack: **Swift/Realm/SnapKit/Mapkit/Core Graphics/Core Animations/Firebase/Figma**
 - An application that provides directions to people who don't know how to go there and introduces recommended spots to tourists who are new to Vancouver.
 - Product manager, programmer, and UI designer working with my team members.
-- Familiar with Apple’s Human Interface Guidelines.
 
 ### S-Portal (Jun 2019 - August 2020)
 
@@ -35,12 +39,6 @@ Projects
 - Tech Stack: **php/Smarty/MySql/JavaScript/Jira**
 - Continued to release Smartphone game which over 100 php files, built with over 100 tables, used by over 10,000 people daily consistently.
 
-### API for IOS map application (April 2013 - Jun 2013)
-
-- Tech Stack: **php/Cakephp/Twitter Bootstrap**
-- Providing information on the location of famous places via API
-
-
 <!--
 
 ### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy)
@@ -49,12 +47,17 @@ Projects
 - People who want to study computer science, algorithms, and something like that can sign up for online classes from this site.
 - Students can know which lectures they have attended, and the instructor can control the content and duration of the lectures.
 
+### Queen’s game (April 2021 ~ July 2021)
+
+- App Store: [https://apps.apple.com/us/app/queens-game/id1575671780](https://apps.apple.com/us/app/queens-game/id1575671780)
+- Tech Stack: **Swift/Realm/MVVM/RxSwift/Core Animations/Figma**
+- Queen's game is a party game which is kind of combination of "Simon Says" and "truth or dare."
+
 ### Famus Spot Tour (December 2020 ~ March 2021)
 
 - Tech Stack: **Swift/Realm/SnapKit/Mapkit/Core Graphics/Core Animations/Firebase/Figma**
 - An application that provides directions to people who don't know how to go there and introduces recommended spots to tourists who are new to Vancouver.
 - Product manager, programmer, and UI designer working with my team members.
-- Familiar with Apple’s Human Interface Guidelines.
 
 ### S-Portal (Jun 2019 - August 2020)
 
