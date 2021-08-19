@@ -1,6 +1,6 @@
 ## Work Experience
 
-### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - Present)
+### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - August 2021)
 
 - Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources. My team has 6 people including me.
 - Front end requirements definition, spec design, implementation.

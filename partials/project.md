@@ -1,6 +1,6 @@
 ## Projects
 
-### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy) (May 2021 - Present)
+### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy) (May 2021 - August 2021)
 
 - Tech Stack: **React/Next.js/Cognito/Api Gateway/DynamoDB/scss**
 - People who want to study computer science, algorithms, and something like that can sign up for online classes from this site.
@@ -10,13 +10,6 @@
 
 - App Store: [https://apps.apple.com/us/app/queens-game/id1575671780](https://apps.apple.com/us/app/queens-game/id1575671780)
 - Tech Stack: **Swift/Realm/MVVM/RxSwift/Core Animations/Figma**
-- Queen's game is a party game which is kind of combination of "Simon Says" and "truth or dare."
-
-### Famus Spot Tour (December 2020 ~ March 2021)
-
-- Tech Stack: **Swift/Realm/SnapKit/Mapkit/Core Graphics/Core Animations/Firebase/Figma**
-- An application that provides directions to people who don't know how to go there and introduces recommended spots to tourists who are new to Vancouver.
-- Product manager, programmer, and UI designer working with my team members.
 
 ### S-Portal (Jun 2019 - August 2020)
 
@@ -33,6 +26,13 @@
 - Tech Stack: **html/css(scss)/JQery/Vue.js/php**
 - Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
 - [https://www.iprimo.jp/](https://www.iprimo.jp/) | [https://www.exchangeuse.com/](https://www.exchangeuse.com/) | [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+
+### Original CMS (November 2014 - September 2016)
+
+- Tech Stack: **php/Laravel/Slim/Phalcon/Cakephp/Zend/Smarty/MySql/JQuery/JavaScript**
+- Creation of portal sites for group companies and renewal of architect office sites
+- [https://www.pharmaproduct.co.jp/](https://www.pharmaproduct.co.jp/)
+- [https://mynavi-job20s.jp/](https://mynavi-job20s.jp/)
 
 ### Web browser Social game applications (January 2014 - October 2014)
 
