@@ -16,7 +16,7 @@
 - Tech Stack: **Vue/SPA/Graphql/Laravel/Docker**
 - SPA for centralized management of knowledge related to site production, accessed daily by 80% of all employees
 
-### FeedLP (January 2018 - September 2019) - [https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
+### FeedLP (January 2018 - September 2019) - [https://www.itstaffing.jp/lp/fd008/?mfeed=D210310647D](https://www.itstaffing.jp/lp/fd002/?mfeed=D210100838D)
 
 - Tech Stack: **React/Go/AWS Fargate/Docker/MySql**
 - We made an API for the job information used in the feed ads and used React to display it dynamically. The UI is now ready to be updated without any work on the server-side.
