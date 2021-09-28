@@ -3,27 +3,25 @@ Skills
 
 ::: flex-list
 
-- Java
-- PHP
 - JavaScript
 - TypeScript
-- Swift
-- Kotolin
-- Python
-- Ruby
-- HTML
-- CSS
-- SCSS
 - React
 - Vue.js
 - Anguler.js
 - Node.js
 - JQuery
 - Next.js
+- Swift
+- Java
+- PHP
+- Python
+- Ruby
+- HTML
+- CSS
+- SCSS
 - Wordpress
 - Laravel
 - CakePhp
-- Zend
 - Rails
 - Graphql
 - MySql
