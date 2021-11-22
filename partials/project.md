@@ -1,15 +1,15 @@
 ## Projects
 
+### Packetlabs (October 2021 - Present)
+
+- Tech Stack: **React/TypeScript/Gatsby/Contentful**
+- Renewing a Wordpress-based corporate website using Gatsby and Contentful.
+
 ### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy) (May 2021 - August 2021)
 
 - Tech Stack: **React/Next.js/Cognito/Api Gateway/DynamoDB/scss**
 - People who want to study computer science, algorithms, and something like that can sign up for online classes from this site.
 - Students can know which lectures they have attended, and the instructor can control the content and duration of the lectures.
-
-### Queen’s game (April 2021 ~ July 2021)
-
-- App Store: [https://apps.apple.com/us/app/queens-game/id1575671780](https://apps.apple.com/us/app/queens-game/id1575671780)
-- Tech Stack: **Swift/Realm/MVVM/RxSwift/Core Animations/Figma**
 
 ### S-Portal (Jun 2019 - August 2020)
 

@@ -1,5 +1,9 @@
 ## Work Experience
 
+### **Full Stack Developer** - Massive Media Inc. / Vancouver, Canada (October - Present)
+
+- Front end requirements definition, spec design, implementation.
+
 ### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - August 2021)
 
 - Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources. My team has 6 people including me.
@@ -14,7 +18,7 @@
 
 ### **Senior Web Developer** - Strawbag inc. / Tokyo, Japan (November 2014 - October 2016)
 
-- Created a CI system that combined **Bitbucket, Wercker, and Slack** to support development when I built a job-search management site using the **php Slim** framework.
+- Created a CI system that combined **Bitbucket, Wercker, and Slack** to support development when I built a job-search management site.
 - Cooperated and built some web applications with the Chinese coworker. That's when I supported him by creating task management, specification explanations, sample code, and documentation.
 
 ### **Junior Web Developer** - BTM inc. / Tokyo, Japan (April 2013 - October 2014)
@@ -25,12 +29,14 @@
 ### **Junior Web Developer** - I-Freek / Fukuoka, Japan (June 2012 - March 2013)
 
 - Modified an existing program made with Perl and deploy it on **Linux** while checking the Apache conf file with Vim.
-- Supported **Android** app which uses GPS made with Java using Eclipse.
-- Wrote clean and stable code and accompanying documentation.
 
 <!--
 
-### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - Present)
+### **Full Stack Developer** - Massive Media Inc. / Vancouver, Canada (October - Present)
+
+- Front end requirements definition, spec design, implementation.
+
+### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - August 2021)
 
 - Mentoring members, managing tasks, One-on-one meetings, and reviewing their sources. My team has 6 people including me.
 - Front end requirements definition, spec design, implementation.
