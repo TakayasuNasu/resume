@@ -12,12 +12,14 @@ I could stay in Japan and continue working, but I wanted to try to work in other
 The reason why I decided to move to Vancouver is I thought it would be highly likely to get a job because there are a lot of tech companies.
 If I had moved to other countries, I might not have found a job even if I can speak English well.
 
-# オフィスに行くかリモートワークか
+### オフィスに行くかリモートワークか
 
+I prefer working in an office to remote work.
 When I don't understand something at work, I can immediately ask my coworkers.
 
 ## Introduce
 
 I attended this college for a year from 2022 August. I mean I'm in co-op duration now.
 
-### whatever I/you, no matter what I/you, Althout, even if, either, both, as long as, as far as I'm concerned
+## whatever I/you, no matter what I/you, Althout, even if, either, both, as long as, as far as I'm concerned, I would say,
+## so-called/いわゆる
