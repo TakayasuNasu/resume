@@ -17,6 +17,10 @@ If I had moved to other countries, I might not have found a job even if I can sp
 I prefer working in an office to remote work.
 When I don't understand something at work, I can immediately ask my coworkers.
 
+### 5/7
+I took advantage of Prettier to format js, twig, scss, and php because it's definitely useful for a developer.
+I want to take initiative in working on website and web application development.
+
 ## Introduce
 
 I attended this college for a year from 2022 August. I mean I'm in co-op duration now.
