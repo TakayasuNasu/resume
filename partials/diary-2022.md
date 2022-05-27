@@ -11,11 +11,16 @@ I could stay in Japan and continue working, but I wanted to try to work in other
 
 The reason why I decided to move to Vancouver is I thought it would be highly likely to get a job because there are a lot of tech companies.
 If I had moved to other countries, I might not have found a job even if I can speak English well.
+I would say the number of Tech companies is less than in Vancouver.
 
 ### オフィスに行くかリモートワークか
 
 I prefer working in an office to remote work.
 When I don't understand something at work, I can immediately ask my coworkers.
+
+## パンデミックの影響で
+I like traveling and I want to go to other cities such as Toronto and I want to go to Seattle as well.
+Because of the pandemic, I haven't been to other cities yet.
 
 ### 5/7
 I took advantage of Prettier to format js, twig, scss, and php because it's definitely useful for a developer.
