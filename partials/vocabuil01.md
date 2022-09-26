@@ -1,0 +1,84 @@
+
+**pry - boulder - rehearse - retrace - sling**
+
+<details>
+<summary></summary>
+
+- ...をてこで動かす/pry ... up - をてこで持ち上げる/pry ... out of ~ - ...を~から苦労して引き出す
+- n: 巨石
+- ...をけいこする/...を詳しく述べる
+- ...を引き返す/...を注意して見直す/...を改装する/...をさかのぼって調べる/retrace one's past - 過去を回想する
+- ...を投げる/...を放る
+</details>
+
+**rustic - intolerant - spank - signing - surge**
+
+<details>
+<summary></summary>
+
+- aj: 田舎の/素朴な - n: 田舎者
+- aj: 我慢できない/耐えられない
+- (体罰として)...のお尻をピシャリとたたく - n: 平手打ち
+- 調印/署名
+- iv: (波のように)押し寄せる/打ち寄せる/(感情が)湧き上がる/surge up - (感情が)湧き上がる/ - n: 殺到/電圧変化
+</details>
+
+**Diet Building - transitive - swoop - reservoir - sled**
+
+<details>
+<summary></summary>
+
+- 国会議事堂
+- 自動詞/推移的な
+- iv: 急降下する/突然襲いかかる/swoop down - (鳥などが舞い降りて)襲いかかる/n: 不意の襲撃
+- ため池/貯水池
+- そり
+</details>
+
+**thump - lamppost - pang - showy - unbutton**
+
+<details>
+<summary></summary>
+
+- iv: 激しく当たる/ごつんと当たる/tv: ...を激しくひっぱたく/...をごつんとたたく/n: ごつんという音
+- 街灯柱
+- n: 激しい痛み/激痛
+- aj: 派手な/けばけばしい/人目を引く
+- (衣服の)ボタンを外す/(心のうち)を打ち明ける/unbuttoned my shirt - シャツのボタンを外した
+</details>
+
+**snug - take a leap of faith - take on ... - mournful - wail**
+
+<details>
+<summary></summary>
+
+- aj: (衣服などが)体にピッタリの/居心地のよい/暖かくて気持ち良い
+- (危険を伴うが)...を思い切ってやってみる
+- (仕事や責任)を引き受ける/be(be) in charge of
+- aj: 悲しげな/死者を悼む
+- iv: 泣き叫ぶ/もの悲しい音をだす - ...と泣き叫ぶように言う - / wailed for ... ...のために嘆き悲しんだ
+</details>
+
+**abbreviate - abort - affix - agitate - alienate**
+
+<details>
+<summary></summary>
+
+- ...を省略する/...を短縮する/be abbreviated to ... ...と省略される
+- (計画など)を中止する/(プログラム)の実行を中止する/it: (計画などが)頓挫する/流産する/abort a program - プログラムの処理を中止する
+- (切手/荷札など)を貼る/...を添付する/affix a stamp on the envelope - 封筒に切手を貼る
+- it: アジる/扇動する/...をかき乱す/...を扇動する/agitate for the construction of a nuclear power plant - 原発建設賛成へと世論をかきたてる
+- ...を遠ざける/...を疎外する/alienate one's friends - 友人を遠ざける
+</details>
+
+**overthrow - wreck - smite**
+
+<details>
+<summary></summary>
+
+- 滅ぼす/n: 打倒
+- 滅ぼす/n: 大破/没落/荒廃
+- ...を滅ぼす/...を打ち倒す
+</details>
+
+
