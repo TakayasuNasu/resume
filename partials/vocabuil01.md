@@ -71,7 +71,7 @@
 - ...を遠ざける/...を疎外する/alienate one's friends - 友人を遠ざける
 </details>
 
-**overthrow - wreck - smite**
+**overthrow - wreck - smite - ruthless - allot**
 
 <details>
 <summary></summary>
@@ -79,6 +79,32 @@
 - 滅ぼす/n: 打倒
 - 滅ぼす/n: 大破/没落/荒廃
 - ...を滅ぼす/...を打ち倒す
+- aj: 情け容赦のない/残酷な/無慈悲な
+- ...を割り振る/...を割り当てる/...を分配する
 </details>
+
+
+**laborious - apprehend - avert - dynasty - unrest**
+
+<details>
+<summary></summary>
+
+- ...骨の折れる/困難な
+- ...を逮捕する/...を捕らえる/...を懸念する - apprehend that/...だと懸念する
+- ...を防ぐ/...を避ける/(視線など)をそらす - was narrowly averted/かろうじて...は免れた
+- 王朝
+- (社会・政治的な)不安/不穏/社会的動揺 - Social unrest spread./社会的動揺が広がった
+</details>
+
+
+**pretext**
+
+<details>
+<summary></summary>
+
+- 口実/名目/言い訳/弁解 - under the pretext of .../...の名目で
+</details>
+
+
 
 
