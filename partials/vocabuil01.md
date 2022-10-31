@@ -97,12 +97,14 @@
 </details>
 
 
-**pretext**
+**pretext - comply - proliferation**
 
 <details>
 <summary></summary>
 
 - 口実/名目/言い訳/弁解 - under the pretext of .../...の名目で
+- iv: (規則などに)従う/応じる - complay with the safety standard/安全基準に準拠する
+- 激増/(核兵器の)拡散
 </details>
 
 
