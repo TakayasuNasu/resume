@@ -97,7 +97,7 @@
 </details>
 
 
-**pretext - comply - proliferation**
+**pretext - comply - proliferation - repetition - lingering**
 
 <details>
 <summary></summary>
@@ -105,8 +105,31 @@
 - 口実/名目/言い訳/弁解 - under the pretext of .../...の名目で
 - iv: (規則などに)従う/応じる - complay with the safety standard/安全基準に準拠する
 - 激増/(核兵器の)拡散
+- 繰り返すこと/反復行為 - repetition of your bad behavior. 悪い行いの繰り返し
+- iv: (人が)立ち去りかねている/まとわりつく -  lingering power crunch concerns/電力不足の懸念が残る
 </details>
 
 
+**liquefied natural gas used to fuel thermal power plants - As part of measures to ensure - archetype - viable - a certain extent**
+
+<details>
+<summary></summary>
+
+- 火力発電の燃料となる液化天然ガス
+- ...を確保するための施策の一環として
+- 典型例/原型
+- aj: (計画などが)実現/実行可能な - a viable alternative/現実的な代案
+- ある程度まで - extent: noun/程度
+</details>
+
+
+**at the end of the day - household word**
+
+<details>
+<summary></summary>
+
+- 結局のところ/要するに
+- よく知られた言葉
+</details>
 
 
