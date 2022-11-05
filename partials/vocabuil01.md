@@ -123,13 +123,15 @@
 </details>
 
 
-**at the end of the day - household word**
+**at the end of the day - household word - to touch base - keep me in the loop**
 
 <details>
 <summary></summary>
 
 - 結局のところ/要するに
 - よく知られた言葉
+- (問題/課題)などを解決するために短時間の連絡をとる - I will touch base with you next week./来週連絡します
+- (プロジェクトの進捗など)を定期的に報告/共有する keep me update
 </details>
 
 
