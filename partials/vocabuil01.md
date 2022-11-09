@@ -123,22 +123,26 @@
 </details>
 
 
-<<<<<<< HEAD
-**at the end of the day - household word - to touch base - keep me in the loop**
-=======
-**at the end of the day - household word**
->>>>>>> 2f15da4266bf5b095813ac519293fc9321f6dca1
+**at the end of the day - household word - to touch base - keep me in the loop - litter**
 
 <details>
 <summary></summary>
 
 - 結局のところ/要するに
 - よく知られた言葉
-<<<<<<< HEAD
 - (問題/課題)などを解決するために短時間の連絡をとる - I will touch base with you next week./来週連絡します
 - (プロジェクトの進捗など)を定期的に報告/共有する keep me update
-=======
->>>>>>> 2f15da4266bf5b095813ac519293fc9321f6dca1
+- ...を散らかす - iv: ゴミを散らかす - ゴミ
+</details>
+
+
+**makeshift - stopgap**
+
+<details>
+<summary></summary>
+
+- aj: 間に合わせの/その場しのぎの
+- aj: 間に合わせの/一時しのぎの
 </details>
 
 
