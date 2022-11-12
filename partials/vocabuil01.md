@@ -35,6 +35,7 @@
 - そり
 </details>
 
+
 **thump - lamppost - pang - showy - unbutton**
 
 <details>
@@ -70,6 +71,7 @@
 - it: アジる/扇動する/...をかき乱す/...を扇動する/agitate for the construction of a nuclear power plant - 原発建設賛成へと世論をかきたてる
 - ...を遠ざける/...を疎外する/alienate one's friends - 友人を遠ざける
 </details>
+
 
 **overthrow - wreck - smite - ruthless - allot**
 
@@ -136,13 +138,51 @@
 </details>
 
 
-**makeshift - stopgap**
+**makeshift - stopgap - Get away with something - purification - be toast**
 
 <details>
 <summary></summary>
 
 - aj: 間に合わせの/その場しのぎの
 - aj: 間に合わせの/一時しのぎの
+- (何か間違ったことをした後に罰や批判)を免れる
+- 浄化/精製
+- 絶望的または非常に困難な状況にある
 </details>
 
+
+**stir-crazy - put something out - get through - get out of - get around to doing**
+
+<details>
+<summary></summary>
+
+- aj: 非常に神経質または不安 - feel stir-crazy/動揺する
+- (火/タバコなど)を消す - turn something off - extinguish
+- (試験に)通る/合格する/(困難など)を乗り越える/を通って(目的地に)着く - Studying got me through the entrance exam./勉強したおかげで入試に合格できた - Don't panic. You can get through this./慌てないで。あなたはこれをやり終えることができるから
+- (車やバスなどから)降りる - ...から逃げ出す - ...をやめる/避ける/免れる
+- ...をするための時間を見つける - I couldn't/didn't get around to it./それをする時間がなかった。
+</details>
+
+
+**get over - wrap up - fine tune - revamp - among other things**
+
+<details>
+<summary></summary>
+
+- 乗り越える/克服する/立ち直る - overcom - I can't get over my shock./ショックから立ち直れないんだ
+- 要約する/切り上げる
+- ...を微調整する - readjust
+- ...を大幅に見直す/...を刷新する
+- (複数ある中で)とりわけ - I like English, among other things./私はとりわけ英語が好きだ
+</details>
+
+
+**upholstery - torn**
+
+<details>
+<summary></summary>
+
+- 室内装飾品/内装/interior design
+- ボロボロ/破れ
+</details>
 
