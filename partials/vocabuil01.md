@@ -11,6 +11,7 @@
 - ...を投げる/...を放る
 </details>
 
+
 **rustic - intolerant - spank - signing - surge**
 
 <details>
@@ -41,12 +42,13 @@
 <details>
 <summary></summary>
 
-- iv: 激しく当たる/ごつんと当たる/tv: ...を激しくひっぱたく/...をごつんとたたく/n: ごつんという音
+- iv: 激しく当たる/ごつんと当たる/tv: ...を激しくひっぱたく/...をごつんとたたく/n: ごつんという音 - She gave him a mighty thump./彼女は彼にを激しくひっぱたいた
 - 街灯柱
 - n: 激しい痛み/激痛
 - aj: 派手な/けばけばしい/人目を引く
 - (衣服の)ボタンを外す/(心のうち)を打ち明ける/unbuttoned my shirt - シャツのボタンを外した
 </details>
+
 
 **snug - take a leap of faith - take on ... - mournful - wail**
 
@@ -59,6 +61,7 @@
 - aj: 悲しげな/死者を悼む
 - iv: 泣き叫ぶ/もの悲しい音をだす - ...と泣き叫ぶように言う - / wailed for ... ...のために嘆き悲しんだ
 </details>
+
 
 **abbreviate - abort - affix - agitate - alienate**
 
@@ -177,12 +180,25 @@
 </details>
 
 
-**upholstery - torn**
+**upholstery - torn - mail-in rebat -  I’m doomed - cope**
 
 <details>
 <summary></summary>
 
 - 室内装飾品/内装/interior design
 - ボロボロ/破れ
+- 製品についてくるクーポンを郵送すると、小切手が郵送されてくるシステム
+- (絶望的な状況にある時に)終わった/もうダメだ - Oops! I forgot about the quiz today. I’m doomed/しまった！小テストのこと忘れてたよ。ヤバイ！
+- ...をうまく対処する
+</details>
+
+
+**get on someone’s case - booze**
+
+<details>
+<summary></summary>
+
+- 誰かを批判したり、苦労させたりする -  If you don’t get on his case for speeding, he’ll end up causing a serious accident./スピード違反で取り締まらないと、重大な事故を起こすことになる。
+- お酒
 </details>
 
