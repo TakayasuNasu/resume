@@ -193,12 +193,26 @@
 </details>
 
 
-**get on someone’s case - booze**
+**get on someone’s case - booze - cabin fever - stand out - outcome**
 
 <details>
 <summary></summary>
 
 - 誰かを批判したり、苦労させたりする -  If you don’t get on his case for speeding, he’ll end up causing a serious accident./スピード違反で取り締まらないと、重大な事故を起こすことになる。
 - お酒
+- 長い間閉じこもっていたために苛々したり、退屈してしまったりする感情のこと - People were suffering from cabin fever after not being able to leave their house./人々は家から出られないことによるストレスで苦しんでいた。
+- 優れている/周り・ほかとは違う状態(外)にいる - Black paint stands out on a white canvas./白いキャンバスには黒色のペンキが際立ちます
+- 結果
 </details>
+
+
+**pristine - in a nutshell**
+
+<details>
+<summary></summary>
+
+- 手付かずの
+- 一言で言えば/簡潔に説明すると - Tell us how you intend to execute all your plans in a nutshell./我々にあなたの計画をどう実行するのか簡潔に説明してください。
+</details>
+
 
