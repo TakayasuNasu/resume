@@ -206,13 +206,69 @@
 </details>
 
 
-**pristine - in a nutshell**
+**pristine - in a nutshell - famished - bump into A - come again**
 
 <details>
 <summary></summary>
 
 - 手付かずの
 - 一言で言えば/簡潔に説明すると - Tell us how you intend to execute all your plans in a nutshell./我々にあなたの計画をどう実行するのか簡潔に説明してください。
+- aj: ...に飢えている/すごくお腹が空いている
+- Aに偶然出くわす
+- もう一度言ってください/whad did you say?
 </details>
+
+
+**go viral - tie the knot - keep me posted - jinx on A - smashing**
+
+<details>
+<summary></summary>
+
+- インターネットユーザーの間で急速に広がる
+- 結婚する
+- 進捗などを都度報告する
+- Aに不幸をもたらす
+- とても素晴らしい
+
+</details>
+
+
+**toss and turn - at stake - no-braine - lousy - broom**
+
+<details>
+<summary></summary>
+
+- 寝返りを打つ
+- 危険に晒されている
+- aj: 考えるまでもないこと - This is a no-brainer job./これは簡単な仕事です。
+- aj: 気に食わない/面白くない - lousy game/くだらない［出来の悪い］ゲーム
+- 箒(ホウキ) - weep a room with a brrm/箒で掃く
+
+</details>
+
+
+**get along with - take after - get down to - take back - get into**
+
+<details>
+<summary></summary>
+
+- ...と仲良くやっていく - get along with students from various countries
+- ...に似ている - He takes after his father in so many ways/彼は父親に色々な点で似ている
+- ...に本腰を入れる - Let's get down to business/本題に入ろう
+- ...を撤回する - He has taken back what he said/彼は自分が言ったことを撤回した
+- ...の状態になる - You'll get into trouble/あなたは怒られるでしょう
+
+</details>
+
+
+**sentence**
+
+<details>
+<summary></summary>
+
+- (...の刑を)(人)に宣告する - be sentenced to death for murder./殺人の罪で死刑を宣告される
+
+</details>
+
 
 
