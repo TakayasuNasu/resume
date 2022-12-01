@@ -31,7 +31,7 @@
 
 - 国会議事堂
 - 自動詞/推移的な
-- iv: 急降下する/突然襲いかかる/swoop down - (鳥などが舞い降りて)襲いかかる/n: 不意の襲撃
+- iv: 急降下する/突然襲いかかる/swoop down - (鳥などが舞い降りて)襲いかかる/n: 不意の襲撃 - The plane made a swoop over the city./飛行機は街の上空を急降下した。
 - ため池/貯水池
 - そり
 </details>
@@ -256,19 +256,61 @@
 - ...に似ている - He takes after his father in so many ways/彼は父親に色々な点で似ている
 - ...に本腰を入れる - Let's get down to business/本題に入ろう
 - ...を撤回する - He has taken back what he said/彼は自分が言ったことを撤回した
-- ...の状態になる - You'll get into trouble/あなたは怒られるでしょう
+- ...の状態/状況になる - You'll get into trouble/あなたは怒られるでしょう - I got into a situation where I had to pay the fine./罰金を払わなければならない状況に陥りました。
 
 </details>
 
 
-**sentence**
+**sentence - upend - go dutch - inmate - deterrent**
 
 <details>
 <summary></summary>
 
 - (...の刑を)(人)に宣告する - be sentenced to death for murder./殺人の罪で死刑を宣告される
+- ひっくり返す - The corona virus pandemic has completely upended daily life/日常生活が一変した
+- 割り勘にする - I always go dutch when I eat with my friends./私は友達と食事をする時はいつも割り勘です。
+- 受刑者
+- aj: 阻止する/抑止力の
 
 </details>
 
 
+**orphanage - carry on - devastating - decent - predicament**
+
+<details>
+<summary></summary>
+
+- 孤児院
+- ...を続ける - Let's carry on this discussion at some other time./この話は、また別の機会にしましょう。
+- aj: 壊滅的な Acid rain has a devastating effect on the forest./酸性雨は、森林に壊滅的な影響を与える。
+- aj: 真っ当な - I’ve got a decent job now./今はまともな仕事に就いている．
+- 苦境 - Many young people find themselves in this predicament./このような苦境に立たされる若者は少なくありません。
+
+</details>
+
+
+**blab - jump to conclusions - outrageous - go through - outsmart**
+
+<details>
+<summary></summary>
+
+- (秘密など)をうっかりしゃべる,/口走る
+- 早とちりする/勘違いする - Let's not jump to conclusions/結論を急ぐのはやめましょう(早合点は禁物)
+- とんでもない/法外な - outrageous prices/法外な値段
+- 体験する/経験する/全面的に適応する/通り抜ける - We had many trials to go through/私たちには、経験すべき多くの試練があった
+- 出し抜く/裏をかく
+</details>
+
+
+**aggravate - equivalent - feasibility - feast - feat**
+
+<details>
+<summary></summary>
+
+- 悪化させる/憤慨させる - This drug aggravates the pain/このドラッグは痛みを一層悪化させる - Cigarettes can aggravate the symptoms of a cold.
+- 同等のもの - aj: 同等の
+- 実現可能性 - The local council called for a feasibility study into the new road scheme./地方議会は、新しい道路計画の実現可能性調査を求めた。
+- 祝宴/楽しみ - ...にごちそうになる/...をもてなす
+- 偉業/功績 - The new building is a remarkable feat of engineering./新社屋は驚くべき技術的な偉業である。
+</details>
 
