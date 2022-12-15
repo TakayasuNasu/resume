@@ -314,3 +314,25 @@
 - 偉業/功績 - The new building is a remarkable feat of engineering./新社屋は驚くべき技術的な偉業である。
 </details>
 
+
+**distraction - wrap up - stick around - lint - brick by brick**
+
+<details>
+<summary></summary>
+
+- 気が散ること - She worked hard all morning, without distraction./彼女は気を散らすことなく、午前中ずっと一生懸命働いた。 - I don't want any distractions./何にも邪魔されたくない。
+- 仕上げる - get through, clear up, finish up
+- スタンバイする
+- 糸くず/ガーゼ
+- 一つ一つ/一歩一歩
+</details>
+
+
+**prone to - compassion**
+
+details>
+<summary></summary>
+
+- ...しがちな
+- 同情/哀れみ
+</details>
