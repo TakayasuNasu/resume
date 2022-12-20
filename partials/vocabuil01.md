@@ -328,11 +328,12 @@
 </details>
 
 
-**prone to - compassion**
+**prone to - compassion - tweak**
 
 details>
 <summary></summary>
 
 - ...しがちな
 - 同情/哀れみ
+- 微調整/fine-tune
 </details>
