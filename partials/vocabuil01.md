@@ -159,7 +159,7 @@
 <details>
 <summary></summary>
 
-- aj: 非常に神経質または不安 - feel stir-crazy/動揺する
+- aj: 非常に神経質または不安 - feel stir-crazy/動揺する - I'm gonna go stir-crazy if I don't get out of this house./この家から出ないと、気が狂いそうです。
 - (火/タバコなど)を消す - turn something off - extinguish
 - (試験に)通る/合格する/(困難など)を乗り越える/を通って(目的地に)着く - Studying got me through the entrance exam./勉強したおかげで入試に合格できた - Don't panic. You can get through this./慌てないで。あなたはこれをやり終えることができるから
 - (車やバスなどから)降りる - ...から逃げ出す - ...をやめる/避ける/免れる
@@ -199,7 +199,7 @@
 <summary></summary>
 
 - 誰かを批判したり、苦労させたりする -  If you don’t get on his case for speeding, he’ll end up causing a serious accident./スピード違反で取り締まらないと、重大な事故を起こすことになる。
-- お酒
+- お酒 - booz it up/大酒を飲む
 - 長い間閉じこもっていたために苛々したり、退屈してしまったりする感情のこと - People were suffering from cabin fever after not being able to leave their house./人々は家から出られないことによるストレスで苦しんでいた。
 - 優れている/周り・ほかとは違う状態(外)にいる - Black paint stands out on a white canvas./白いキャンバスには黒色のペンキが際立ちます
 - 結果
@@ -297,7 +297,7 @@
 - (秘密など)をうっかりしゃべる,/口走る
 - 早とちりする/勘違いする - Let's not jump to conclusions/結論を急ぐのはやめましょう(早合点は禁物)
 - とんでもない/法外な - outrageous prices/法外な値段
-- 体験する/経験する/全面的に適応する/通り抜ける - We had many trials to go through/私たちには、経験すべき多くの試練があった
+- 体験する/経験する/全面的に適応する/通り抜ける - We had many trials to go through/私たちには、経験すべき多くの試練があった - You must go through with your plan./その計画をやり通さなければならないです。
 - 出し抜く/裏をかく
 </details>
 
@@ -330,7 +330,7 @@
 
 **prone to - compassion - tweak**
 
-details>
+<details>
 <summary></summary>
 
 - ...しがちな
