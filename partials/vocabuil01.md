@@ -328,12 +328,14 @@
 </details>
 
 
-**prone to - compassion - tweak**
+**prone to - compassion - tweak - vague - run errands**
 
 <details>
 <summary></summary>
 
-- ...しがちな
+- ...しがちな - given to/disposed to
 - 同情/哀れみ
 - 微調整/fine-tune
+- 漠然とした - unclear/obscure/indistinct
+- 用事を済ます -  She made her brother run some little errands for her./彼女は弟にちょっとした用事をさせた。
 </details>
