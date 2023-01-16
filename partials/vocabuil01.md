@@ -339,3 +339,75 @@
 - 漠然とした - unclear/obscure/indistinct
 - 用事を済ます -  She made her brother run some little errands for her./彼女は弟にちょっとした用事をさせた。
 </details>
+
+
+**envelop - expressive of - plaster - flake - flap**
+
+<details>
+<summary></summary>
+
+- ...を包む/...をくるむ
+-  表現する
+- かべ土
+- 剥がれる / 剥がす
+- 折り返し / 旗がはためく
+</details>
+
+**madly - flush - indignation - heighten - contradiction**
+
+<details>
+<summary></summary>
+
+- 気が狂ったように
+- 怒りで顔が赤くなる
+- 怒り
+-  ...を高める
+- 矛盾 / 反対の主張
+</details>
+
+
+**prevailing - hush - in corporate into - raid - intake**
+
+<details>
+<summary></summary>
+
+- 広く行き渡った / 支配的な
+- 静かにさせる / なだめる
+- ...を-に組み込む / 組み合わせる
+- 衝撃
+- 摂取
+</details>
+
+
+**bruise - recollection - lighten - preface - precede**
+
+<details>
+<summary></summary>
+
+- 打撲 / 打ち身
+- 思い出 / 回想
+- ...を明るくする
+- 全文 / 前置き
+- ...の前におく / ...に先行する / ...より上である
+</details>
+
+
+**fig - ripen - dose - soothe  - bowel**
+
+<details>
+<summary></summary>
+
+- イチジク / 些細な量
+- 果物がミノル / 果物が成熟する
+- 一回分の服用量
+- (痛みなど)を和らげる / 気分を落ち着かせる
+- 腸
+</details>
+
+
+
+
+
+
+
+
