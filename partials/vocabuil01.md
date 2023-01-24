@@ -405,6 +405,93 @@
 </details>
 
 
+**symbolize - telecommunication - thaw - drizzle - thicken**
+
+<details>
+<summary></summary>
+
+- ...を象徴する
+- 電気通信
+- 雪が溶ける / 解凍される / 打ち解ける - The snow started to thaw as the temperature kept up. / 気温が上がるにつれて雪が解け始めました。
+- 霧雨(キリサメ)j
+- 濃くなる
+</details>
+
+
+**thrive - chancellor - wither - affirm - allege**
+
+<details>
+<summary></summary>
+
+- 成功する / 繁栄する / 生きがいにする
+- 首相 / 大蔵大臣 / 大臣
+- (植物が)しおれる / 色褪せる / 衰える
+- ...を主張する / 肯定する - to affirm the conviction / 有罪判決を支持する -  to affirm the judgment / 判決を支持する
+- ...を断言する / 主張する
+</details>
+
+
+**psychiatric - pediatrician - internist - famished - it never hurts**
+
+<details>
+<summary></summary>
+
+- aj: 精神医学の / 精神科の - mental 
+- 小児科医 - baby doctor
+- 内科医
+- 飢えた
+- ...に越したことはない - In business it never hurts to be cautious. / ビジネスでは、慎重になるに越したことはありません。
+</details>
+
+
+**bark up the wrong tree - Beef up - eager beaver - the elephant in the room - get ducks in a row**
+
+<details>
+<summary></summary>
+
+- 見当違いですよ
+- 強化をする / 戦略の強化
+- がん張り - Being an eager beaver, he sometimes is not well - liked by his colleagues. / しかし、その反面、同僚から嫌われることもある。
+- その事をあえて話題にしない、見て見ぬふりをする、という状況
+- 準備を整える - Let’s get our ducks in a row before the presentation. / プレゼンの前にしっかり準備しよう
+</details>
+
+
+**hair of the dog - asylum - obsessed - obesity - partly**
+
+<details>
+<summary></summary>
+
+- むかえ酒 - Hair of the dog didn’t make him feel better. / むかえ酒もダメだったみたいだよ
+- 亡命 - refuge
+- 一途な / 夢中な - preoccupied
+- 肥満 - fatness
+- 部分的に - partly domesticated / partly to foreign markets / partly my fault / 一部国内向け／一部海外向け／一部自分のせい
+</details>
+
+
+**conjecture - concise - coddle - contour - crude**
+
+<details>
+<summary></summary>
+
+- 推測 / 推測する 想定する - infer
+- 簡潔な
+- 甘やかす / ちやほやする - fuss over
+- 輪郭 / 等高線 - shape / profile
+- 荒削りな / 無作法な - vulgar - The country exports crude oil./その国は原油を輸出しています。
+</details>
+
+
+**improvise - acme**
+
+
+<details>
+<summary></summary>
+
+- ...を即興で作る/...を間に合わせに - wing it
+- (芸術などの)最高の出来栄え - pinnacle / peak
+</details>
 
 
 
