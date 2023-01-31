@@ -463,7 +463,7 @@
 <summary></summary>
 
 - むかえ酒 - Hair of the dog didn’t make him feel better. / むかえ酒もダメだったみたいだよ
-- 亡命 - refuge
+- 亡命 - refuge - 収容所
 - 一途な / 夢中な - preoccupied
 - 肥満 - fatness
 - 部分的に - partly domesticated / partly to foreign markets / partly my fault / 一部国内向け／一部海外向け／一部自分のせい
@@ -476,14 +476,14 @@
 <summary></summary>
 
 - 推測 / 推測する 想定する - infer
-- 簡潔な
+- 簡潔な - short
 - 甘やかす / ちやほやする - fuss over
 - 輪郭 / 等高線 - shape / profile
 - 荒削りな / 無作法な - vulgar - The country exports crude oil./その国は原油を輸出しています。
 </details>
 
 
-**improvise - acme**
+**improvise - acme - lousy - caveat - wildfire**
 
 
 <details>
@@ -491,10 +491,58 @@
 
 - ...を即興で作る/...を間に合わせに - wing it
 - (芸術などの)最高の出来栄え - pinnacle / peak
+- お粗末な/ひどい - awful / crappy
+- (ある行為に対しての)警戒 - ...に警告する  - warning
+- 山火事
 </details>
 
 
+**procrastinate - conspiracy - practive - attentive - deceitful**
+
+<details>
+<summary></summary>
+
+- (故意に)手間取る / ...を先送りにする - delay / temporize
+- 陰謀/共謀
+- 事前対策
+- 注意深い/気が利く - attentive to someone / 人に気が利く
+- 人をだます
+</details>
 
 
+**arouse - beware - constitutional - dean - commend**
+
+<details>
+<summary></summary>
+
+- (感情/興味)を呼び起こす - Which situations tend to arouse these emotions in you?/どのような場面で、そのような感情を抱くことが多いですか？
+- 注意してください
+- aj: 憲法上の/生まれつきの
+- 学部長
+- ...を褒める/...を推薦する
+</details>
 
 
+**superb - thesis - falsehood - confer**
+
+<details>
+<summary></summary>
+
+- aj: 素晴らしい/豪華な
+- 論文/学位論文/命題
+- 認める/与える/譲歩する
+- 何かを偽らせたり偽造する行為/うそ/欺瞞
+- 相談する
+</details>
+
+
+**treasurer - confide - weary - pastor**
+
+<details>
+<summary></summary>
+
+- 会計係
+- (秘密など)を打ち明ける
+- aj: うんざりさせる/退屈な/疲れた
+- 牧師
+</details>
