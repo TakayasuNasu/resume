@@ -536,7 +536,7 @@
 </details>
 
 
-**treasurer - confide - weary - pastor**
+**treasurer - confide - weary - pastor - console**
 
 <details>
 <summary></summary>
@@ -545,4 +545,19 @@
 - (秘密など)を打ち明ける
 - aj: うんざりさせる/退屈な/疲れた
 - 牧師
+- 慰め - solace - 
 </details>
+
+
+**sorrowful - formulate - amendment - grumble - annoyance**
+
+<details>
+<summary></summary>
+
+- 悲しんでいる
+- ...を明確に述べる/...を公式化する
+- 修正条項 - revison
+- 不平を言う - complain
+- 苛立たしさ/迷惑 - vexation
+</details>
+
