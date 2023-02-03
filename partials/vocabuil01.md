@@ -336,7 +336,7 @@
 - ...しがちな - given to/disposed to
 - 同情/哀れみ
 - 微調整/fine-tune
-- 漠然とした - unclear/obscure/indistinct
+- 漠然とした - unclear/obscure/indistinct/ambiguous
 - 用事を済ます -  She made her brother run some little errands for her./彼女は弟にちょっとした用事をさせた。
 </details>
 
@@ -465,7 +465,7 @@
 - むかえ酒 - Hair of the dog didn’t make him feel better. / むかえ酒もダメだったみたいだよ
 - 亡命 - refuge - 収容所
 - 一途な / 夢中な - preoccupied
-- 肥満 - fatness
+- 肥満 - fatness - One effect of overeating may be obesity.食べ過ぎの影響として、肥満が考えられます。
 - 部分的に - partly domesticated / partly to foreign markets / partly my fault / 一部国内向け／一部海外向け／一部自分のせい
 </details>
 
@@ -475,7 +475,7 @@
 <details>
 <summary></summary>
 
-- 推測 / 推測する 想定する - infer
+- 推測 / 推測する 想定する - infer - There has been some conjecture about a possible merger. The rumor raised much conjecture.
 - 簡潔な - short
 - 甘やかす / ちやほやする - fuss over
 - 輪郭 / 等高線 - shape / profile
@@ -542,10 +542,10 @@
 <summary></summary>
 
 - 会計係
-- (秘密など)を打ち明ける
+- (秘密など)を打ち明ける - She's nice, but I don't feel I can confide in her.いい人なんだけど、打ち明けられる感じじゃない。
 - aj: うんざりさせる/退屈な/疲れた
 - 牧師
-- 慰め - solace - 
+- 慰め - solace - encourage - hearten
 </details>
 
 
@@ -560,4 +560,44 @@
 - 不平を言う - complain
 - 苛立たしさ/迷惑 - vexation
 </details>
+
+
+**unprivileged - harsh - whatsoever - peruse - Physically demanding job**
+
+<details>
+<summary></summary>
+
+- aj: 特権のない
+- 過酷な - harsh world
+- 指定なく/いくつかの/あるいは全ての - at all
+- 熟読する - scrutinize
+- 肉体的にキツい仕事
+</details>
+
+
+**repetitive - culinary - simmer - fling - trifle**
+
+<details>
+<summary></summary>
+
+- しつこい - recurrent
+- 料理用の
+- 煮る
+- ...を投げつける/(勢いよく)身を投じる
+- 些細なこと
+</details>
+
+
+**roar -scraggly - toothy grin(smile) - mournful**
+
+<details>
+<summary></summary>
+
+- うなる/吠える
+- モジャモジャの
+- 歯を剥き出した笑い
+- 悲しげな
+</details>
+
+
 

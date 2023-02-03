@@ -22,3 +22,7 @@ I'll have arrived in Chainatown by the time they get there.
 My friend will have come the libraly by the time I get to.
 Finding out what to do is very important to us I suppose.
 The question of what to do is a very important one for us, I have no doubt about that.
+
+31st Tuesday January 2023
+
+I conjecture about this week is not busy.
