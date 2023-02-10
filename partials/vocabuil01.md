@@ -588,7 +588,7 @@
 </details>
 
 
-**roar -scraggly - toothy grin(smile) - mournful**
+**roar -scraggly - toothy grin(smile) - mournful - barely**
 
 <details>
 <summary></summary>
@@ -597,7 +597,17 @@
 - モジャモジャの
 - 歯を剥き出した笑い
 - 悲しげな
+- かろうじて - scarcely - hardly
 </details>
 
 
+**relinquish - comrade - unsavory drunk brute**
+
+<details>
+<summary></summary>
+
+- 放棄する - abandon - renounce
+- 仲間
+- 不愉快な酔っ払いの獣
+</details>
 
