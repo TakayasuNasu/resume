@@ -601,7 +601,7 @@
 </details>
 
 
-**relinquish - comrade - unsavory drunk brute**
+**relinquish - comrade - unsavory drunk brute - frown**
 
 <details>
 <summary></summary>
@@ -609,5 +609,10 @@
 - 放棄する - abandon - renounce
 - 仲間
 - 不愉快な酔っ払いの獣
+- 眉をひそめる
 </details>
+
+
+
+
 
