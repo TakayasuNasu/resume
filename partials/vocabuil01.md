@@ -601,7 +601,7 @@
 </details>
 
 
-**relinquish - comrade - unsavory drunk brute - frown**
+**relinquish - comrade - unsavory drunk brute - frown - inference**
 
 <details>
 <summary></summary>
@@ -610,9 +610,15 @@
 - 仲間
 - 不愉快な酔っ払いの獣
 - 眉をひそめる
+- 推論 - assumption / supposition
 </details>
 
 
+**rationale**
 
+<details>
+<summary></summary>
 
+- 根拠 - basis
+</details>
 
