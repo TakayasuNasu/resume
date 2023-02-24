@@ -28,7 +28,20 @@ The question of what to do is a very important one for us, I have no doubt about
 
 I conjecture about this week is not busy.
 
-## 22nd Wednesday Feburary 2023
+
+## 18th Saturday February 2023
+
+I went to a hospital to get a checkup because it's necessary to be accepted my apply of permanent residence.
+I didn't get an x-ray photograph in the hospital. One of the staffs in the hospital told me about where I can get a x-ray. Then, I went to Oakridge Centre.
+Next I went to a Japanese curry restaurant. That place is my favourite curry restaurant in Vancouver.
+After that, I had an appointment in the one of Japanese hair salon then I went there and had new hairstyle.
+Finally, I went to Starbucks coffee that is the closet from my home and reading books.
+
+I went to a hospital for a checkup because it's necessary to be accepted for my permanent residency application. However, I wasn't able to get an X-ray photograph at the hospital. Fortunately, one of the staff members informed me of where I could get one, and I ended up going to Oakridge Centre to have it taken.
+
+Later on, I went to my favorite Japanese curry restaurant in Vancouver. After finishing my meal, I had an appointment at a Japanese hair salon where I got a new hairstyle. Finally, I headed to the closest Starbucks from my home to read some books.
+
+## 22nd Wednesday February 2023
 
 After work, I went to a public library to studay Rust.
 But I didnt do a long time because I watched youtube that I interested video.
@@ -37,3 +50,18 @@ Next time I'll try to ignore other things as long as it's not importance.
 
 After work, I went to a public library to study Rust. However, I didn't stay for a long time because I watched a YouTube video that interested me.
 I think I saw some blog posts that warned against making mistakes when starting to learn Rust. Next time, I'll try to ignore distractions as long as they are not important.
+
+## 23rd Thursday February 2023
+
+I like watching and playing soccer.
+Man United is one of my favourite soccer teams.
+So today, the team had a big match. Man United played FC Barcelona.
+I just occasionally checked the game's score, during work.
+Finally, Man united won by FC Barcelona made me happy.
+
+I'm a big fan of soccer and enjoy both watching and playing it.
+One of my favorite teams is Man United, and today they had a huge match against FC Barcelona.
+Even though I was at work, I couldn't resist checking the score occasionally.
+In the end, I was thrilled that Man United emerged victorious over FC Barcelona, which made my day.
+
+

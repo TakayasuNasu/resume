@@ -614,11 +614,12 @@
 </details>
 
 
-**rationale**
+**rationale - emerged victorious**
 
 <details>
 <summary></summary>
 
 - 根拠 - basis
+- 勝利した - He emerged victorious in the elections / Man United emerged victorious over FC Barcelona
 </details>
 
