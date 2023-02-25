@@ -65,3 +65,10 @@ Even though I was at work, I couldn't resist checking the score occasionally.
 In the end, I was thrilled that Man United emerged victorious over FC Barcelona, which made my day.
 
 
+## 24th Friday February 2023
+
+It was so cold today. Unfortunately It's gonna be colder tomorrow than today.
+I stopped by a grocery store. After that, I just recollected I have to go to a bank in order to withdraw my money because I need to pay my lent.
+I wonder if I should go to the bank or not, finally I decided to go to the bank because I was afraid that I forget to go to the bank on Monday after work.
+
+Today was extremely cold, and to make matters worse, it looks like it's going to be even colder tomorrow. While running errands, I made a quick stop at the grocery store. Then, I remembered that I needed to go to the bank to withdraw some money for a loan payment. After some deliberation, I decided it was best to go to the bank and take care of it, just in case I forgot to do it later.
