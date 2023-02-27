@@ -72,3 +72,15 @@ I stopped by a grocery store. After that, I just recollected I have to go to a b
 I wonder if I should go to the bank or not, finally I decided to go to the bank because I was afraid that I forget to go to the bank on Monday after work.
 
 Today was extremely cold, and to make matters worse, it looks like it's going to be even colder tomorrow. While running errands, I made a quick stop at the grocery store. Then, I remembered that I needed to go to the bank to withdraw some money for a loan payment. After some deliberation, I decided it was best to go to the bank and take care of it, just in case I forgot to do it later.
+
+## 26th Sunday February 2023
+
+I went to Starbucks coffee even if it was snowy because I had decided to go there no matter what happened.
+The reason why I had decided to is I didn't go out on Saturday. I wanted to go out either Saturday or Sunday.
+Fortunately, it was a really sunny day on Sunday, but it was cold. I was feeling good and after lunch, I went there and reading e-books during drinking Latte.
+Finally, I went to the grocery store to buy some food.
+
+Despite the snowy weather, I went to Starbucks because I had already made up my mind to go there, no matter what.
+The reason behind my decision was that I didn't go out on Saturday and I wanted to get out either on Saturday or Sunday.
+Luckily, Sunday turned out to be a really sunny day, albeit cold. Feeling good, I went to Starbucks after lunch and read e-books while drinking a latte.
+Afterwards, I headed to the grocery store to buy some food.
