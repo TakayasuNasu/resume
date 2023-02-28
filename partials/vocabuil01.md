@@ -614,12 +614,16 @@
 </details>
 
 
-**rationale - emerged victorious**
+**rationale - emerged victorious - coalition - distinguish**
 
 <details>
 <summary></summary>
 
 - 根拠 - basis
 - 勝利した - He emerged victorious in the elections / Man United emerged victorious over FC Barcelona
+- 連合 / 提携 - alliance
+- 区別する - differentiate - S can distinguish between A and B / AとBを区別できる
 </details>
+
+
 
