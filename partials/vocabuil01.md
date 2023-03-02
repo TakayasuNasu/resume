@@ -614,7 +614,7 @@
 </details>
 
 
-**rationale - emerged victorious - coalition - distinguish**
+**rationale - emerged victorious - coalition - distinguish - utensils**
 
 <details>
 <summary></summary>
@@ -623,7 +623,14 @@
 - 勝利した - He emerged victorious in the elections / Man United emerged victorious over FC Barcelona
 - 連合 / 提携 - alliance
 - 区別する - differentiate - S can distinguish between A and B / AとBを区別できる
+- 用具/器具 - gadgets
 </details>
 
 
+**implore**
 
+<details>
+<summary></summary>
+
+- ...を懇願する/...を請う - beseech - beg -I implore you to go/write/do
+</details>
