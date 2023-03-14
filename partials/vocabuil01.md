@@ -627,10 +627,11 @@
 </details>
 
 
-**implore**
+**implore - unpredictable**
 
 <details>
 <summary></summary>
 
 - ...を懇願する/...を請う - beseech - beg -I implore you to go/write/do
+- 予測不可能な ... is very unpredictable - uncertain
 </details>
