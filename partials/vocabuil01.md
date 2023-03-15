@@ -627,11 +627,25 @@
 </details>
 
 
-**implore - unpredictable**
+**implore - unpredictable - applicable - perplex - profess**
 
 <details>
 <summary></summary>
 
 - ...を懇願する/...を請う - beseech - beg -I implore you to go/write/do
 - 予測不可能な ... is very unpredictable - uncertain
+- 適切な/適用可能な - appropriate / suitable - The rule is applicable to your case.
+- 当惑する - bewilder - This problem perplexes me. - I have no wish to perplex the issue.
+- 公言する - declare / assert - profess to know / profess to understand
 </details>
+
+
+**reconcile**
+
+<details>
+<summary></summary>
+
+- ...を和解させる - try to reconcile our - She could not reconcile herself to a life of hardship and poverty.   彼女は、苦難と貧困の生活に納得がいかなかったのだ。
+</details>
+
+
