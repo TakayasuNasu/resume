@@ -640,12 +640,50 @@
 </details>
 
 
-**reconcile**
+**reconcile -  confess - confine - conform - confiscate**
 
 <details>
 <summary></summary>
 
 - ...を和解させる - try to reconcile our - She could not reconcile herself to a life of hardship and poverty.   彼女は、苦難と貧困の生活に納得がいかなかったのだ。
+- ...を白状する/...を認める
+- ...を限定する/...を制限する/...を閉じ込める
+- 従う/順応する
+- 没収された/押収された
 </details>
+
+
+**confound - confronted with - concession - forfeit - obscure**
+
+<details>
+<summary></summary>
+
+- 人を困惑させる/混乱させる
+- (問題)に直面する
+- 譲歩
+- 剥奪される/没収されたもの
+- 曖昧な/ぼんやりした
+</details>
+
+
+**obviate - proceed - recede - accede - slaughter**
+
+<details>
+<summary></summary>
+
+- ...を無用にする/...する必要をなくす
+- 進む
+- 後退する
+- 屈する/任務を引き受ける
+- 虐殺
+</details>
+
+
+
+
+
+
+
+
 
 
