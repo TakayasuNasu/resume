@@ -679,6 +679,17 @@
 </details>
 
 
+**hollow - deputy - sheer - embrace - grief**
+
+<details>
+<summary></summary>
+
+- 虚な / カラの / へこみ
+- 代理人 / 代理の
+- 絶対的な / 崖が切り立った
+- 抱擁 / 抱きしめる
+- 深い悲しみ
+</details>
 
 
 
