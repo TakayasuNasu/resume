@@ -692,8 +692,17 @@
 </details>
 
 
+**grieve - condemn - hurl - ditch -revamp**
 
+<details>
+<summary></summary>
 
+- 深く悲しむ
+- 非難する
+- 強く投げつける / 叩きつける
+- 排水溝
+- ...を改造(改良/改装)する
+</details>
 
 
 
