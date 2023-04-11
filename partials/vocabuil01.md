@@ -705,7 +705,7 @@
 </details>
 
 
-**errands - faucet - dent - flickering**
+**errands - faucet - dent - flickering - trajectory**
 
 <details>
 <summary></summary>
@@ -714,7 +714,20 @@
 - 蛇口
 - くぼみ
 - ちらつき
+- 軌道
 </details>
 
+
+**sulk - decisive - preoccupied - get in the way of - density**
+
+<details>
+<summary></summary>
+
+- 不機嫌になる - 不貞腐れる
+- 決定的 - a decisive factor in ... / ...の決定要因(決めて)となる
+- ...に夢中 / ...で頭がいっぱい - preoccupied with budge / 予算で頭を悩ませる
+- My pride got in the way of asking for help. / プライドが助けを求めることを妨げた - Your social life must not get in the way of your studies / 人付き合いが学業の妨げとなってはならない
+- 密度
+</details>
 
 
