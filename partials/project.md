@@ -1,9 +1,15 @@
 ## Projects
 
-### Packetlabs (October 2021 - Present)
+### Primasun - https://www.primasun.com/ (September 2022 - February)
 
-- Tech Stack: **React/TypeScript/Gatsby/Contentful**
-- Renewing a Wordpress-based corporate website using Gatsby and Contentful.
+- Tech Stack: **React/TypeScript/Gatsby/Contentful/Netlify**
+- Designed Contentful Types to update large portions of the site without code modification
+- The site was well received by the client. It led to a contract to support social media management.
+
+### Packetlabs - https://www.packetlabs.net/ (October 2021 - March 2022)
+
+- Tech Stack: **React/TypeScript/Gatsby/Contentful/Netlify**
+- Improved website performance by 20-30 points through understanding and use of Gatsyb and Contentful features
 
 ### Dpcode Academy - [https://dpcode.academy](https://dpcode.academy) (May 2021 - August 2021)
 
@@ -21,11 +27,11 @@
 - Tech Stack: **React/Go/AWS Fargate/Docker/MySql**
 - We made an API for the job information used in the feed ads and used React to display it dynamically. The UI is now ready to be updated without any work on the server-side.
 
-### Landing Page and Wordpress (Occasionally 4 to 5 site per year)
+<!-- ### Landing Page and Wordpress (Occasionally 4 to 5 site per year)
 
 - Tech Stack: **html/css(scss)/JQery/Vue.js/php**
 - Perfect coding using **css grid** and **flex-box** based on the design data (psd) to improve conversion rates.
-- [https://www.iprimo.jp/](https://www.iprimo.jp/) | [https://www.exchangeuse.com/](https://www.exchangeuse.com/) | [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/)
+- [https://www.iprimo.jp/](https://www.iprimo.jp/) | [https://www.exchangeuse.com/](https://www.exchangeuse.com/) | [https://www.nichiiweb.jp/kaji/](https://www.nichiiweb.jp/kaji/) -->
 
 ### Original CMS (November 2014 - September 2016)
 

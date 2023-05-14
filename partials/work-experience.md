@@ -1,8 +1,9 @@
 ## Work Experience
 
-### **Full Stack Developer** - Massive Media Inc. / Vancouver, Canada (October - Present)
+### **Full Stack Developer** - Massive Media Inc. / Vancouver, Canada (October 2021 - May 2023)
 
-- Front end requirements definition, spec design, implementation.
+- Responsible for front/back end design, implementation, testing and debugging.
+- Created corporate website with project managers and designers.
 
 ### **Lead Front End Developer** (Contract) - DPCode Inc. / Vancouver, Canada (May 2021 - August 2021)
 
@@ -13,8 +14,8 @@
 
 - Created SPA for centralized management which useful knowledge within the company that was stored in various locations. That SPA is made with **Docker, Laravel, Graphql and Vue.js**.
 - As project leader, I selected technologies and supported members of the project team.
-- Built a Staging environment and set a deployment system using **Github** webhook.
-- Worked closely with other developers and UI designers in an agile environment.
+<!-- - Built a Staging environment and set a deployment system using **Github** webhook.
+- Worked closely with other developers and UI designers in an agile environment. -->
 
 ### **Senior Web Developer** - Strawbag inc. / Tokyo, Japan (November 2014 - October 2016)
 

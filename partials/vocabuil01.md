@@ -727,7 +727,69 @@
 - 決定的 - a decisive factor in ... / ...の決定要因(決めて)となる
 - ...に夢中 / ...で頭がいっぱい - preoccupied with budge / 予算で頭を悩ませる
 - My pride got in the way of asking for help. / プライドが助けを求めることを妨げた - Your social life must not get in the way of your studies / 人付き合いが学業の妨げとなってはならない
-- 密度
+- 密度 The region has a very high population density. / この地域は、人口密度が非常に高いです。
 </details>
 
 
+**walk past - get going - aggression - footage - blurry**
+
+<details>
+<summary></summary>
+
+- He walked past you. / 彼はあなたの前を通り過ぎました。
+- I’d get going pretty soon.  そろそろ行かなくちゃ
+- n: 攻撃性
+- 映像
+- ぼやけた
+</details>
+
+
+**obliged - granulate - part with allowance - up-and-coming**
+
+<details>
+<summary></summary>
+
+- aj: 義務付けられた - We are much obliged to you for your help. / 私たちは、あなたに大変お世話になりました。 She was obliged to go. / 彼女は行かざるを得なかった。
+- 粒状にする
+- 手放す - $ my cach, like to $ this rings, easy to $ one's children.
+- 手当(ボーナス的な) - get an $ for entertaining / get an $ for clothes
+- aj: 新進気鋭の - promising - young $ leading lady / an $ artist
+</details>
+
+
+**contestant - obesity - obsess - disease resistant - conduct**
+
+<details>
+<summary></summary>
+
+- (コンテスト/大会などへの)出場者/参加者
+- 肥満
+- 執着する $ about - $ over - $ me/him/her
+- 病気の耐性 - Developing $ variety, use $ cultivars
+- ...を行う / ...を指揮する - Interview was $ yesterday
+</details>
+
+
+**to take measures to - contaminate - meet A through - turn out well - in a way**
+
+<details>
+<summary></summary>
+
+- 対策を講じる - to $ aboid, to $ stop, to $ ensure
+- 汚染物質
+- ...の紹介/...を介して(人)に会う - meet him through my friend
+- うまくいく - the crops will $, the photos $
+- ある意味では / いわば / ある程度 - that's OK in a way, $ it helped ease the guilt.
+</details>
+
+
+**look no further than - laid-back - take each day as it comes - scenery**
+
+<details>
+<summary></summary>
+
+-ほかは見るまでもない / 一目瞭然だ - need to $, has to $ the campaign
+- のんびり - relaxed - so $ to, is $ manner
+- 一日一日を大切にする/大切に過ごす - I've learned to $, I'll $
+- 景色 - beautiful $, the village $ is unique.
+</details>

@@ -87,3 +87,20 @@ ul {
 .text-align-center {
   text-align: center;
 }
+
+/* resume_takayasu_nasu.md */
+h1 {
+  margin-bottom: 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+ul {
+  margin-top: 0;
+}
+
+p {
+  margin: 0;
+}

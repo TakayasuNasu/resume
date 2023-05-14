@@ -4,4 +4,12 @@
     "editorStickyScroll.background": "#332765",
     "editorStickyScrollHover.background": "#504083"
   },
+  "markdown-pdf.styles": [
+    "/Users/takayasu/Storage/md-obsidian/resume-en/resume-pdf.css"
+  ],
+  "markdown-pdf.displayHeaderFooter": false,
+  "markdown-pdf.margin.bottom": "0.4cm",
+  "markdown-pdf.margin.top": "0.2cm",
+  "markdown-pdf.margin.left": "0.5cm",
+  "markdown-pdf.margin.right": "0.5cm",
 }
