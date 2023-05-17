@@ -783,13 +783,25 @@
 </details>
 
 
-**look no further than - laid-back - take each day as it comes - scenery**
+**look no further than - laid-back - take each day as it comes - scenery - hilarious**
 
 <details>
 <summary></summary>
 
--ほかは見るまでもない / 一目瞭然だ - need to $, has to $ the campaign
+- ほかは見るまでもない / 一目瞭然だ - need to $, has to $ the campaign - $ something/somethingで決まりだ
 - のんびり - relaxed - so $ to, is $ manner
 - 一日一日を大切にする/大切に過ごす - I've learned to $, I'll $
 - 景色 - beautiful $, the village $ is unique.
+- 陽気な/爆笑ものの - He's $. This was $.
+</details>
+
+
+**tearjerker - short notice - No biggie**
+
+<details>
+<summary></summary>
+
+- 感傷的な物語 / 泣けるドラマ
+- 前もって相談もなく / いきなり言われても... - at such $, on $, at such $ to take her class, Thanks for agreeing to see me at such $
+- 大したことではない no big deal
 </details>
