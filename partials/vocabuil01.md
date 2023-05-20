@@ -796,7 +796,7 @@
 </details>
 
 
-**tearjerker - short notice - No biggie**
+**tearjerker - short notice - No biggie - workaround**
 
 <details>
 <summary></summary>
@@ -804,4 +804,5 @@
 - 感傷的な物語 / 泣けるドラマ
 - 前もって相談もなく / いきなり言われても... - at such $, on $, at such $ to take her class, Thanks for agreeing to see me at such $
 - 大したことではない no big deal
+- 回避策
 </details>
