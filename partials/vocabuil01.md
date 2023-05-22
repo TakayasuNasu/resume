@@ -796,7 +796,7 @@
 </details>
 
 
-**tearjerker - short notice - No biggie - workaround**
+**tearjerker - short notice - No biggie - workaround - push back**
 
 <details>
 <summary></summary>
@@ -805,4 +805,5 @@
 - 前もって相談もなく / いきなり言われても... - at such $, on $, at such $ to take her class, Thanks for agreeing to see me at such $
 - 大したことではない no big deal
 - 回避策
+- 延期する - wanted to $, tried to $
 </details>
