@@ -807,3 +807,13 @@
 - 回避策
 - 延期する - wanted to $, tried to $
 </details>
+
+
+**propel - propagate**
+
+<details>
+<summary></summary>
+
+- ...を推進する / ...を進ませる - to $ the ...
+- 伝搬する / ...を広める - $ themselves by, to $ in
+</details>
