@@ -1,106 +1,55 @@
-/*
- * Markdown PDF CSS
- */
-
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, code, img,
+small, strong, sub, sup, b, u, i,
+dl, dt, dd, ol, ul, li,
+table, caption, tbody, tfoot, thead, tr, th, td,
+figure, figcaption, footer, header {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
 body {
-  font-size: 9px;
-  line-height: 1.45;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+  line-height: 1.2;
 }
-
-pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  border-radius: 3px;
-  overflow-x: auto;
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
+h1 {
+  font-size: 24px;
 }
-
-pre:not(.hljs) {
-  padding: 23px;
-  line-height: 19px;
+h2 {
+  font-size: 20px;
 }
-
-blockquote {
-  background: rgba(127, 127, 127, 0.1);
-  border-color: rgba(0, 122, 204, 0.5);
+h3 {
+  font-size: 16px;
 }
-
-.emoji {
-  height: 1.4em;
+h4 {
+  font-size: 12px;
 }
-
-code {
-  font-size: 14px;
-  line-height: 19px;
-}
-
-/* for inline code */
-:not(pre):not(.hljs)>code {
-  color: #C9AE75;
-  /* Change the old color so it seems less like an error */
-  font-size: inherit;
-}
-
-/* Page Break : use <div class="page"/> to insert page break
--------------------------------------------------------- */
-.page {
-  page-break-after: always;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5 {
+h1, h2, h3, h4, h5 {
   font-family: "Hiragino Mincho Pro W6", "ヒラギノ明朝 Pro W6";
+}
+ul, p, a, span {
+  font-size: 8.8px;
+}
+p, a, span {
+  line-height: 1.6;
+}
+b, strong {
+  font-weight: 700;
 }
 
 h1 {
-  font-size: 20px;
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
 }
-
 h2 {
   margin-top: 10px;
   margin-bottom: 0.2em;
   padding-bottom: 0.1em;
-  font-size: 16px;
   border-bottom: solid 1px #000000;
-}
-
-ul {
-  margin-bottom: 10px;
-  padding-left: 22px;
-  padding-right: 22px;
-}
-
-.flex-list ul {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.flex-list li {
-  width: 12.5%;
-}
-
-.text-align-center {
-  text-align: center;
-}
-
-/* resume_takayasu_nasu.md */
-h1 {
-  margin-bottom: 0;
-}
-
-h3 {
-  margin: 0;
-}
-
-ul {
-  margin-top: 0;
-}
-
-p {
-  margin: 0;
 }
