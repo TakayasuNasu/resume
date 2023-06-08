@@ -809,7 +809,7 @@
 </details>
 
 
-**propel - propagate - poping up**
+**propel - propagate - poping up - bearing - malformed request**
 
 <details>
 <summary></summary>
@@ -817,4 +817,61 @@
 - ...を推進する / ...を進ませる - to $ the ...
 - 伝搬する / ...を広める - $ themselves by, to $ in
 - (予想外に)現れる
+- 関連 / 関係 - not much $ on the problem その問題とはあまり関係がない - $ in mind the problem of ... / ...の問題を念頭において考える
+- 不正なリクエスト
+</details>
+
+
+**bulk - need to be configured with - in the mean time - stopgap - makeshift**
+
+<details>
+<summary></summary>
+
+- かさばる / ...を大きく見せる - The bulk of the people voted / 国民の大多数が投票した
+- ...を設定する必要がある
+- それまでの間
+- 一時しのぎ - stopgap measure / その場しのぎの対策
+- 間に合わせ
+</details>
+
+
+**no pressure at all - onward - completion - complacent - complicity**
+
+<details>
+<summary></summary>
+
+- 無理せずに
+- さらに先え / [時刻、年]以降 - From the 1950s $ / 1950年代以降
+- 完成
+- 自己満足の / 独りよがりの - $ about progress
+- 共謀 - denied $ in the murder / 殺人への共犯を否定した - suspected of $ in the fraud
+</details>
+
+
+**complimentary - comply - composite - composure - compound**
+
+<details>
+<summary></summary>
+
+- aj: 無料で提供される - $ remarks / 褒め言葉
+- (規則に)従う / 応じる - $ with the law / 法律に従う
+- 合成物の
+- 落ち着き / 沈着 / 平静 - He wondered at her $ in such a crisis. / このような危機的状況下での彼女の冷静さを彼は不思議に思った
+-  化合物 - ...を悪化させる
+</details>
+
+
+**feat**
+
+<details>
+<summary></summary>
+
+- 功績 - $ of engineering / 工学的な功績
+</details>
+
+
+<details>
+<summary></summary>
+
+- ...
 </details>
