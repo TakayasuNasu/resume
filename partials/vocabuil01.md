@@ -861,12 +861,16 @@
 </details>
 
 
-**feat**
+**feat - feasible - step into - largess - susceptible**
 
 <details>
 <summary></summary>
 
 - 功績 - $ of engineering / 工学的な功績
+- (計画が)実現可能な - an optimal $ solution / 実現可能な最適なソリューション
+- ゴールに辿り着く - $ a new job / 新しい仕事を始める
+- 気前の良さ - giving $ / 大盤振る舞い
+- aj: 影響を受けやすい - Older people are more $ to infections. / 高齢者はより感染症にかかりやすい
 </details>
 
 
