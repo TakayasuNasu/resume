@@ -874,6 +874,30 @@
 </details>
 
 
+**look into - go wrong - discrepancy - discord - wrap up**
+
+<details>
+<summary></summary>
+
+- 調べる
+- うまくいかない - I get upset when things $ / うまくいかないと慌てる - You can't $ withi ... / ...なら間違い無いです
+- n: 不一致 - The $ between AA and BB is ... / AA と BB の差異は ...
+- 不和 / 不協和音 - A note of $ 
+- 仕上げる - Let's $ the job and go home. / 仕事を終わらせて帰ろう
+</details>
+
+
+**unprecedented - oppression**
+
+<details>
+<summary></summary>
+
+- 前例のない - an $ level of quality / 前例のないレベルのクオリティ
+- 圧迫 / 抑圧 - Years of $ had ... / 長年の抑圧が...させた
+</details>
+
+
+
 <details>
 <summary></summary>
 
