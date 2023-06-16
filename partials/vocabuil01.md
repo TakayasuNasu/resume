@@ -887,13 +887,14 @@
 </details>
 
 
-**unprecedented - oppression**
+**unprecedented - oppression - intervention**
 
 <details>
 <summary></summary>
 
 - 前例のない - an $ level of quality / 前例のないレベルのクオリティ
 - 圧迫 / 抑圧 - Years of $ had ... / 長年の抑圧が...させた
+- 介入 - Military $ is / 軍事介入
 </details>
 
 
