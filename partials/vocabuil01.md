@@ -900,6 +900,17 @@
 </details>
 
 
+**discretion - according to circumstances**
+
+<details>
+<summary></summary>
+
+- 思慮分別 / 慎重さ / 自由裁量 / 決定権
+- 状況に応じて - should act $ / 状況に応じて行動するべき
+</details>
+
+
+
 
 <details>
 <summary></summary>
