@@ -900,15 +900,26 @@
 </details>
 
 
-**discretion - according to circumstances**
+**discretion - according to circumstances - as the case may be - fetter - for clarify**
 
 <details>
 <summary></summary>
 
 - 思慮分別 / 慎重さ / 自由裁量 / 決定権
 - 状況に応じて - should act $ / 状況に応じて行動するべき
+- 場合によっては
+- 足かせ / 束縛される
+- 明確にするために
 </details>
 
+
+**carve out**
+
+<details>
+<summary></summary>
+
+- 刻んで作る / 開拓する
+</details>
 
 
 
