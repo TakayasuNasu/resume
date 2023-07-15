@@ -913,12 +913,13 @@
 </details>
 
 
-**carve out**
+**carve out - terrific**
 
 <details>
 <summary></summary>
 
 - 刻んで作る / 開拓する
+	- ものすごく良い / すごい - a $ speed
 </details>
 
 
