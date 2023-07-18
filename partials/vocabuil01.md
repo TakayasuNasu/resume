@@ -887,7 +887,7 @@
 </details>
 
 
-**unprecedented - oppression - intervention - holding up - comrande**
+**unprecedented - oppression - intervention - holding up - comrade**
 
 <details>
 <summary></summary>
@@ -896,7 +896,7 @@
 - 圧迫 / 抑圧 - Years of $ had ... / 長年の抑圧が...させた
 - 介入 - Military $ is / 軍事介入
 - 支持
-- 仲間
+- 仲間 / 同志
 </details>
 
 
@@ -913,13 +913,26 @@
 </details>
 
 
-**carve out - terrific**
+**carve out - terrific - terrified - using up - coalition**
 
 <details>
 <summary></summary>
 
 - 刻んで作る / 開拓する
-	- ものすごく良い / すごい - a $ speed
+- ものすごく良い / すごい - a $ speed
+- aj: ...に怯えた / ...するのが怖い
+- 使い果たす - People are $ natural resources. 人々は天然資源を使い果たしている。
+- 連合
+</details>
+
+
+**retort - almighty**
+
+<details>
+<summary></summary>
+
+- 言い返す - He bit back a sharp $. 彼は鋭い反論をかみ殺した
+- 全能の
 </details>
 
 
