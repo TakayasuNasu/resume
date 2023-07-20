@@ -926,13 +926,15 @@
 </details>
 
 
-**retort - almighty**
+**retort - almighty - place to call one's own - compromise**
 
 <details>
 <summary></summary>
 
 - 言い返す - He bit back a sharp $. 彼は鋭い反論をかみ殺した
 - 全能の
+- 自分が所有する / 住処 / 職場 - She just wanted a $ her own. 彼女はただ、自分の居場所が欲しかっただけなのだ
+- 妥協 - I refuse to $ my principles. 私は自分の原則に妥協しない
 </details>
 
 
