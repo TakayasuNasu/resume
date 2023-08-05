@@ -233,14 +233,14 @@
 </details>
 
 
-**toss and turn - at stake - no-braine - lousy - broom**
+**toss and turn - at stake - no-brainer - lousy - broom**
 
 <details>
 <summary></summary>
 
 - 寝返りを打つ
 - 危険に晒されている
-- aj: 考えるまでもないこと - This is a no-brainer job./これは簡単な仕事です。
+- aj: 考えるまでもないこと - This is a no-brainer job./これは簡単な仕事です。It seems like a $ to me. 私には、別に頭を悩ませる問題とも思えませんが
 - aj: 気に食わない/面白くない - lousy game/くだらない［出来の悪い］ゲーム
 - 箒(ホウキ) - weep a room with a brrm/箒で掃く
 
@@ -926,7 +926,7 @@
 </details>
 
 
-**retort - almighty - place to call one's own - compromise**
+**retort - almighty - place to call one's own - compromise - honk**
 
 <details>
 <summary></summary>
@@ -934,6 +934,30 @@
 - 言い返す - He bit back a sharp $. 彼は鋭い反論をかみ殺した
 - 全能の
 - 自分が所有する / 住処 / 職場 - She just wanted a $ her own. 彼女はただ、自分の居場所が欲しかっただけなのだ
+- 妥協 - I refuse to $ my principles. 私は自分の原則に妥協しない
+- クラクションを鳴らす - Most American car horns $ in the key of F.
+</details>
+
+
+**sore loser- reckless - thoroughly - down to earth - stingy**
+
+<details>
+<summary></summary>
+
+- 負けず嫌い
+- 無謀な / 無鉄砲 - rush
+- 徹底的に - completely
+- 分別のある / 堅実な / 実践的な - practical
+- ケチな / せこい - $ with the money
+</details>
+
+
+**competent**
+
+<details>
+<summary></summary>
+
+- 有能な / incompetent: 無能な
 </details>
 
 
