@@ -952,7 +952,7 @@
 </details>
 
 
-**competent - coincide - tease - gripe**
+**competent - coincide - tease - gripe - make up my mind**
 
 <details>
 <summary></summary>
@@ -961,6 +961,16 @@
 - ...と同時に起こる coincide with - The show is timed to $ with the launch of her new book. このショーは、彼女の新著の発売に合わせたものだ。
 - ...をからかう
 - 嘆く / 不満 - My only $ is ... 私の唯一の不満は... / Most people would $ about a job like that. たいていの人はそういう仕事に不満を持つだろう。
+- I haven't made up mind. まだ決めてない == I haven't decided yet.
+</details>
+
+
+**do the math**
+
+<details>
+<summary></summary>
+
+- 考えればわかるでしょ、自分で考えなさい
 </details>
 
 
